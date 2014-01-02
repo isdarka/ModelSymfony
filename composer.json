@@ -6,10 +6,9 @@
     "version": "1.0",
     "license": "MIT",
     "keywords": [
-        "zf2",
-        "zend",
-        "module",
-        "query"
+        "isdarka",
+        "symfony",
+        "model"
     ],
     "require": {
         "php": ">=5.3.3"
